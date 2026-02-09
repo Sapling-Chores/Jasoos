@@ -37,15 +37,13 @@ Here are few reference you might want to take a look on (full resource included 
 
 ## Schematics:
 
-![alt text]({CFD7542F-981E-4EA0-A21E-44D320B6AC89}.png)
+<img width="1459" height="841" alt="{CFD7542F-981E-4EA0-A21E-44D320B6AC89}" src="https://github.com/user-attachments/assets/d70f5e56-2bda-49bb-8d90-eed2fdf2ad2d" />
+
 
 ## PCB:
 
-![alt text]({79110A40-61D2-4E51-AD6C-79277D97876D}.png)
+<img width="831" height="797" alt="{79110A40-61D2-4E51-AD6C-79277D97876D}" src="https://github.com/user-attachments/assets/e75886ce-f790-4b75-810e-8516155e6cf8" />
 
-![alt text]({AF6637DE-20E4-4804-A83A-41A4611D1F02}.png)
-
-![alt text]({5897F96A-7F29-4B0C-BFD2-CFD0F6B79BAB}.png)
 
 
 ## CAD:

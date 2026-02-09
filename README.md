@@ -43,6 +43,9 @@ Here are few reference you might want to take a look on (full resource included 
 ## PCB:
 
 <img width="831" height="797" alt="{79110A40-61D2-4E51-AD6C-79277D97876D}" src="https://github.com/user-attachments/assets/e75886ce-f790-4b75-810e-8516155e6cf8" />
+<img width="918" height="892" alt="{5897F96A-7F29-4B0C-BFD2-CFD0F6B79BAB}" src="https://github.com/user-attachments/assets/c87a8243-561a-4248-aae6-1d844675a08e" />
+<img width="918" height="892" alt="{5897F96A-7F29-4B0C-BFD2-CFD0F6B79BAB}" src="https://github.com/user-attachments/assets/1e9ce94b-e300-4ecf-a89f-4ee211c7160d" />
+
 
 
 

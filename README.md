@@ -18,7 +18,7 @@ This is compact keychain voice recorder (~~Not a Spy Gadget~~). This project use
 
 
 
-I am a very big fan of crime documentories and shows that forces you to think. So I always though what can I do in a situation like a threat or a fight or an argument that could get you in trouble later. And yeah its simple just carry a voice recorder (for ethical use only) that can record audio whenever you want.
+I am a very big fan of crime documentories and shows that forces you to think. So I always thought, what can I do in a situation like a threat or a fight or an argument that could get you in trouble later. And yeah its simple just carry a voice recorder (for ethical use only) that can record audio whenever you want.
 
 
 

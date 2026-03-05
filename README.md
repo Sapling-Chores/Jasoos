@@ -6,21 +6,20 @@
 
 </div>
 
-<div>
+
 
 This is compact keychain voice recorder (~~Not a Spy Gadget~~). This project uses an esp32 s3 with a sd card slot and a cam module that I wish to use in the upgraded version of this project. This project uses an INMP441 to record very good quality audio. Most interestingly, to on the device you have to enter a certain morse using tactile button. This project also uses a sleep mechanism that you can set in the code.
 
 
-</div>
+
 
 
 ## Why I made this project?
 
-<div>
+
 
 I am a very big fan of crime documentories and shows that forces you to think. So I always though what can I do in a situation like a threat or a fight or an argument that could get you in trouble later. And yeah its simple just carry a voice recorder (for ethical use only) that can record audio whenever you want.
 
-</div>
 
 
 

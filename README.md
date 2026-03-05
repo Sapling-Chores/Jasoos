@@ -24,19 +24,20 @@ I am a very big fan of crime documentories and shows that forces you to think. S
 
 ## Schematics:
 
-<img width="1459" height="841" alt="{CFD7542F-981E-4EA0-A21E-44D320B6AC89}" src="https://github.com/user-attachments/assets/d70f5e56-2bda-49bb-8d90-eed2fdf2ad2d" />
+<img width="1075" height="730" alt="{82FB0A6A-3265-4491-90EC-668285DBF997}" src="https://github.com/user-attachments/assets/fdb8ea2c-f3a7-4601-9449-f76a25d2d513" />
+
 
 
 ## PCB:
 
-<img width="831" height="797" alt="{79110A40-61D2-4E51-AD6C-79277D97876D}" src="https://github.com/user-attachments/assets/e75886ce-f790-4b75-810e-8516155e6cf8" />
-<img width="918" height="892" alt="{5897F96A-7F29-4B0C-BFD2-CFD0F6B79BAB}" src="https://github.com/user-attachments/assets/c87a8243-561a-4248-aae6-1d844675a08e" />
-<img width="802" height="885" alt="{AF6637DE-20E4-4804-A83A-41A4611D1F02}" src="https://github.com/user-attachments/assets/4e27bdce-5761-4c8e-98d9-0049ede58d90" />
+<img width="1233" height="790" alt="{3117E95D-4C5D-426B-9B72-BEBF8F33B6BE}" src="https://github.com/user-attachments/assets/094fc969-b95e-4030-96e7-62e269bff3a3" />
+<img width="1154" height="760" alt="{ED59E47D-16D1-476C-B091-310170C18766}" src="https://github.com/user-attachments/assets/550dc726-ab42-48ac-a4bf-1dcc197b4f45" />
+
 
 
 ## Cad
 
-<img width="1304" height="832" alt="{28570B3C-EFCF-4C88-BCCF-B011CD19350D}" src="https://github.com/user-attachments/assets/3e165629-e6da-411e-bf1e-7c2d6c2d6438" />
+
 
 
 

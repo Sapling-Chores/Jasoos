@@ -41,7 +41,11 @@ Snap fit cross section:
 
 <img width="1129" height="728" alt="{C65555D8-011B-43BF-B24B-0FC93CA538DD}" src="https://github.com/user-attachments/assets/2ce281ba-c591-4bb4-bd3c-0f050742535a" />
 
+Snap fit female
+
 <img width="1127" height="456" alt="{05F68A5F-CE9F-44DC-B916-9449E48CEFE0}" src="https://github.com/user-attachments/assets/acc04c7c-768e-4a2a-84fd-1d21eb140fb0" />
+
+snap fit male
 
 <img width="1312" height="524" alt="{FB04E22F-B731-4AE8-8F12-7287FDB0447E}" src="https://github.com/user-attachments/assets/c9a402c4-cb94-4983-b4c4-4c9f49e69216" />
 

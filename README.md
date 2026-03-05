@@ -35,6 +35,17 @@ I am a very big fan of crime documentories and shows that forces you to think. S
 <img width="1154" height="760" alt="{ED59E47D-16D1-476C-B091-310170C18766}" src="https://github.com/user-attachments/assets/550dc726-ab42-48ac-a4bf-1dcc197b4f45" />
 
 
+# Cad
+
+Snap fit cross section:
+
+<img width="1129" height="728" alt="{C65555D8-011B-43BF-B24B-0FC93CA538DD}" src="https://github.com/user-attachments/assets/2ce281ba-c591-4bb4-bd3c-0f050742535a" />
+
+<img width="1127" height="456" alt="{05F68A5F-CE9F-44DC-B916-9449E48CEFE0}" src="https://github.com/user-attachments/assets/acc04c7c-768e-4a2a-84fd-1d21eb140fb0" />
+
+<img width="1312" height="524" alt="{FB04E22F-B731-4AE8-8F12-7287FDB0447E}" src="https://github.com/user-attachments/assets/c9a402c4-cb94-4983-b4c4-4c9f49e69216" />
+
+
 
 
 

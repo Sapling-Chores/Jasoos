@@ -47,12 +47,10 @@ Here are few reference you might want to take a look on (full resource included 
 <img width="802" height="885" alt="{AF6637DE-20E4-4804-A83A-41A4611D1F02}" src="https://github.com/user-attachments/assets/4e27bdce-5761-4c8e-98d9-0049ede58d90" />
 
 
+## Cad
+
+<img width="1304" height="832" alt="{28570B3C-EFCF-4C88-BCCF-B011CD19350D}" src="https://github.com/user-attachments/assets/3e165629-e6da-411e-bf1e-7c2d6c2d6438" />
 
 
 
-## CAD:
-
-<img width="1425" height="793" alt="{EE393BE6-AC87-403E-A6A3-62A8272C9447}" src="https://github.com/user-attachments/assets/e4ca6417-1ba0-4e6d-be15-54e573cae51a" />
-
-<img width="1229" height="787" alt="{93B9D0D9-02D5-4B38-875B-F56185564A26}" src="https://github.com/user-attachments/assets/9d714238-1278-4a83-b148-265fb5ce48b2" />
 

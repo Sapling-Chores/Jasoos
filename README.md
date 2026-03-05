@@ -1,4 +1,6 @@
 <div align = "center">
+  
+<img width="3780" height="1890" alt="Jasoos (1)" src="https://github.com/user-attachments/assets/37455aad-f24a-4d16-985e-4ef72b6dee1e" />
 
 # Jasoos
 
@@ -33,9 +35,6 @@ I am a very big fan of crime documentories and shows that forces you to think. S
 <img width="1233" height="790" alt="{3117E95D-4C5D-426B-9B72-BEBF8F33B6BE}" src="https://github.com/user-attachments/assets/094fc969-b95e-4030-96e7-62e269bff3a3" />
 <img width="1154" height="760" alt="{ED59E47D-16D1-476C-B091-310170C18766}" src="https://github.com/user-attachments/assets/550dc726-ab42-48ac-a4bf-1dcc197b4f45" />
 
-
-
-## Cad
 
 
 
